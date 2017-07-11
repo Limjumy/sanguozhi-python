@@ -1,0 +1,8 @@
+review_mainroles_each.txt   每篇评论中出现的人物及其词频
+review_role_freq.py   对应代码
+
+reviews.txt  是整合所有的书评，统计词频的第一步
+stop.txt  是整合书评用到的停用词
+reviews_jihe.py
+（三国演义中此步骤用R实现）
+
